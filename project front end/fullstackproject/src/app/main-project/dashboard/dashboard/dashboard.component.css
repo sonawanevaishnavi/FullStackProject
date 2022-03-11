@@ -1,0 +1,31 @@
+.issue {
+    background: rgb(106, 67, 158);
+}
+
+.insert {
+    background: rgb(145, 145, 241);
+}
+
+.block {
+    color: whitesmoke;
+    border-radius: 12px;
+    margin-top: 30px;
+}
+
+.btn-outline-light {
+    border-radius: 23px;
+    width: 100px;
+}
+
+.card {
+    height: 25vh;
+}
+
+.thead-dark {
+    background-color: rgb(63, 62, 62);
+    color: white;
+}
+
+.table-row {
+    margin-top: 40px;
+}
